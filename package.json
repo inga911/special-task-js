@@ -1,0 +1,18 @@
+{
+  "name": "special-task",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "task": "nodemon ./task.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Inga (https://github.com/inga911)",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9",
+    "nodemon": "^3.0.1"
+  }
+}
